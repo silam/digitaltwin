@@ -1,3 +1,4 @@
+
 # Si Lam's Digital Twin
 
 This application is a Gradio chat interface that answers questions about Si
@@ -5,6 +6,7 @@ Lam's background, education, professional experience, certifications, and
 interests. It uses retrieval-augmented generation (RAG) so responses are
 grounded in the local text files under [`data/`](data/).
 
+## Live Demo: https://huggingface.co/spaces/silam2026/digital-twin
 ## How it works
 
 When `app.py` starts, it:
